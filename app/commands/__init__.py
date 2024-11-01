@@ -20,7 +20,9 @@ class CommandHandler:
             return result
         except KeyError:
             error_message = f"No command: {command_name}"
+            logging.error(error_message)
             print(error_message)
         except Exception as e:
             error_message = f"Error executing command {command_name}: {str(e)}"
+            logging.error(error_message)
             print(error_message)

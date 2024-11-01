@@ -105,3 +105,20 @@
 2024-11-01 14:52:32,771 - root - INFO - Executed command: menu with args: []. Result: None
 2024-11-01 14:52:36,009 - root - INFO - Executed command: add with args: ['1', '2']. Result: 3
 2024-11-01 14:53:30,343 - root - INFO - Executed command: divide with args: ['12', '2']. Result: 6
+2024-11-01 14:57:17,917 - root - INFO - Logging configured.
+2024-11-01 14:57:17,917 - root - INFO - Environment variables loaded.
+2024-11-01 14:57:18,412 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 14:57:21,913 - root - INFO - Executed command: add with args: ['a', '2']. Result: Invalid number format
+2024-11-01 14:58:09,167 - root - INFO - Logging configured.
+2024-11-01 14:58:09,167 - root - INFO - Environment variables loaded.
+2024-11-01 14:58:09,413 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 14:58:11,653 - root - ERROR - Invalid number of arguments: ['1']
+2024-11-01 14:58:11,654 - root - INFO - Executed command: add with args: ['1']. Result: Usage: command <number1> <number2>
+2024-11-01 15:00:06,372 - root - INFO - Logging configured.
+2024-11-01 15:00:06,373 - root - INFO - Environment variables loaded.
+2024-11-01 15:00:06,652 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:00:46,586 - root - INFO - Logging configured.
+2024-11-01 15:00:46,587 - root - INFO - Environment variables loaded.
+2024-11-01 15:00:46,830 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:00:48,251 - root - ERROR - Invalid number of arguments: []
+2024-11-01 15:00:48,252 - root - INFO - Executed command: add with args: []. Result: Usage: command <number1> <number2>
