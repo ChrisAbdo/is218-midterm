@@ -1,7 +1,10 @@
+import logging
 from app.commands import Command
 import pandas as pd
 from app.calculator.calculations import Calculations
 import os
+
+# i kept getting a weird issue with my columns so i had chatgpt help me out with this
 
 class PandasCommand(Command):
     def execute(self, args):
@@ -10,6 +13,7 @@ class PandasCommand(Command):
 
         if not history:
             print("No calculations in history to write.")
+            logging.warning("No calculations in history to write.")
             return "No calculations in history to write."
 
         data = []
@@ -35,4 +39,5 @@ class PandasCommand(Command):
         combined_df.to_csv(file_path, index=False)
 
         print(f"Calculation history appended to {file_path}")
+        logging.info(f"Calculation history appended to {file_path}")
         return f"Calculation history appended to {file_path}"
