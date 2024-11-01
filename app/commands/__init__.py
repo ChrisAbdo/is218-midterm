@@ -9,7 +9,7 @@ class CommandHandler:
     def __init__(self):
         self.commands = {}
 
-    def register(self, command_name: str, command: Command):
+    def register_command(self, command_name: str, command: Command):
         self.commands[command_name] = command
 
     def execute_command(self, command_name: str, args):
