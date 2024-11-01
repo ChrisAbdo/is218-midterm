@@ -1,6 +1,5 @@
 import pkgutil
 import importlib
-from dotenv import load_dotenv
 from app.commands import CommandHandler
 from app.commands import Command
 
