@@ -68,3 +68,40 @@
 2024-11-01 14:37:45,983 - root - INFO - Environment variables loaded.
 2024-11-01 14:45:38,112 - root - INFO - Logging configured.
 2024-11-01 14:45:38,112 - root - INFO - Environment variables loaded.
+2024-11-01 14:51:36,659 - root - INFO - Logging configured.
+2024-11-01 14:51:36,659 - root - WARNING - this is a test
+2024-11-01 14:51:36,667 - root - INFO - Logging configured.
+2024-11-01 14:51:36,667 - root - INFO - Environment variables loaded.
+2024-11-01 14:51:37,054 - root - INFO - Logging configured.
+2024-11-01 14:51:37,055 - root - INFO - Environment variables loaded.
+2024-11-01 14:51:37,062 - root - INFO - Logging configured.
+2024-11-01 14:51:37,063 - root - INFO - Environment variables loaded.
+2024-11-01 14:51:37,066 - root - INFO - Logging configured.
+2024-11-01 14:51:37,066 - root - INFO - Environment variables loaded.
+2024-11-01 14:51:37,069 - root - INFO - Logging configured.
+2024-11-01 14:51:37,070 - root - INFO - Environment variables loaded.
+2024-11-01 14:51:37,072 - root - INFO - Logging configured.
+2024-11-01 14:51:37,072 - root - INFO - Environment variables loaded.
+2024-11-01 14:51:37,075 - root - INFO - Logging configured.
+2024-11-01 14:51:37,076 - root - INFO - Environment variables loaded.
+2024-11-01 14:51:37,083 - root - INFO - Logging configured.
+2024-11-01 14:51:37,083 - root - INFO - Environment variables loaded.
+2024-11-01 14:51:37,086 - root - INFO - Logging configured.
+2024-11-01 14:51:37,087 - root - INFO - Environment variables loaded.
+2024-11-01 14:51:37,090 - root - INFO - Logging configured.
+2024-11-01 14:51:37,090 - root - INFO - Environment variables loaded.
+2024-11-01 14:51:37,093 - root - INFO - Logging configured.
+2024-11-01 14:51:37,093 - root - INFO - Environment variables loaded.
+2024-11-01 14:51:37,095 - root - INFO - Logging configured.
+2024-11-01 14:51:37,096 - root - INFO - Environment variables loaded.
+2024-11-01 14:51:37,099 - root - INFO - Logging configured.
+2024-11-01 14:51:37,099 - root - INFO - Environment variables loaded.
+2024-11-01 14:51:37,102 - root - INFO - Logging configured.
+2024-11-01 14:51:37,102 - root - INFO - Environment variables loaded.
+2024-11-01 14:51:37,103 - root - INFO - Logging configured.
+2024-11-01 14:51:37,104 - root - INFO - Environment variables loaded.
+2024-11-01 14:52:32,399 - root - INFO - Logging configured.
+2024-11-01 14:52:32,400 - root - INFO - Environment variables loaded.
+2024-11-01 14:52:32,771 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 14:52:36,009 - root - INFO - Executed command: add with args: ['1', '2']. Result: 3
+2024-11-01 14:53:30,343 - root - INFO - Executed command: divide with args: ['12', '2']. Result: 6
