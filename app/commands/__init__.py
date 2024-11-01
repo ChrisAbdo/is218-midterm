@@ -17,7 +17,7 @@ class CommandHandler:
             result = self.commands[command_name].execute(args)
             return result
         except KeyError:
-            error_message = f"No such command: {command_name}"
+            error_message = f"No command: {command_name}"
             print(error_message)
         except Exception as e:
             error_message = f"Error executing command {command_name}: {str(e)}"
