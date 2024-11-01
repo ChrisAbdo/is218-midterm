@@ -1,29 +1,29 @@
 from decimal import Decimal
-from .functions import Calculation
+from .functions import Functions
 from .calculations import Calculations
 from .ops import add, subtract, multiply, divide
 
 class Calculator:
     @staticmethod
     def add(a: Decimal, b: Decimal) -> Decimal:
-        calculation = Calculation(a, b, add)
-        Calculations.add_calculation(calculation)
-        return calculation.execute_calculation()
+        calculation = Calculations.create(a, b, add)
+        Functions.register(calculation)
+        return calculation.execute()
 
     @staticmethod
     def subtract(a: Decimal, b: Decimal) -> Decimal:
-        calculation = Calculation(a, b, subtract)
-        Calculations.add_calculation(calculation)
-        return calculation.execute_calculation()
+        calculation = Calculations.create(a, b, subtract)
+        Functions.register(calculation)
+        return calculation.execute()
 
     @staticmethod
     def multiply(a: Decimal, b: Decimal) -> Decimal:
-        calculation = Calculation(a, b, multiply)
-        Calculations.add_calculation(calculation)
-        return calculation.execute_calculation()
+        calculation = Calculations.create(a, b, multiply)
+        Functions.register(calculation)
+        return calculation.execute()
 
     @staticmethod
     def divide(a: Decimal, b: Decimal) -> Decimal:
-        calculation = Calculation(a, b, divide)
-        Calculations.add_calculation(calculation)
-        return calculation.execute_calculation()
+        calculation = Calculations.create(a, b, divide)
+        Functions.register(calculation)
+        return calculation.execute()
