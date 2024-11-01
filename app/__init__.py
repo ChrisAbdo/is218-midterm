@@ -6,7 +6,6 @@ from app.commands import Command
 class App:
     def __init__(self):
         self.command_handler = CommandHandler()
-        self.command_handler = CommandHandler()
 
     def load_plugins(self):
         plugins_package = "app.plugins"
