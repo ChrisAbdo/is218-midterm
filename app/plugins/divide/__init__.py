@@ -1,4 +1,5 @@
 from decimal import Decimal, InvalidOperation
+import logging
 from app.commands import Command
 from app.calculator import Calculator
 from app.plugins.args import get_args
@@ -16,7 +17,9 @@ class DivideCommand(Command):
             return result
         except InvalidOperation:
             print("Invalid number format")
+            logging.warning(f"Invalid number format: {args}")
             return "Invalid number format"
         except ZeroDivisionError:
             print("Cannot divide by zero")
+            logging.error("Cannot divide by zero")
             return "Cannot divide by zero"

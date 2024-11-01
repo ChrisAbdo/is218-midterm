@@ -122,3 +122,14 @@
 2024-11-01 15:00:46,830 - root - INFO - Executed command: menu with args: []. Result: None
 2024-11-01 15:00:48,251 - root - ERROR - Invalid number of arguments: []
 2024-11-01 15:00:48,252 - root - INFO - Executed command: add with args: []. Result: Usage: command <number1> <number2>
+2024-11-01 15:02:41,529 - root - INFO - Logging configured.
+2024-11-01 15:02:41,530 - root - INFO - Environment variables loaded.
+2024-11-01 15:02:41,870 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:02:45,294 - root - WARNING - Invalid number of arguments: []
+2024-11-01 15:02:45,295 - root - INFO - Executed command: add with args: []. Result: Usage: command <number1> <number2>
+2024-11-01 15:03:28,629 - root - INFO - Executed command: divide with args: ['12', '0']. Result: Cannot divide by zero
+2024-11-01 15:04:26,240 - root - INFO - Logging configured.
+2024-11-01 15:04:26,240 - root - INFO - Environment variables loaded.
+2024-11-01 15:04:26,599 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:04:29,395 - root - ERROR - Cannot divide by zero
+2024-11-01 15:04:29,395 - root - INFO - Executed command: divide with args: ['12', '0']. Result: Cannot divide by zero
