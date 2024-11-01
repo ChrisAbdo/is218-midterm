@@ -133,3 +133,1103 @@
 2024-11-01 15:04:26,599 - root - INFO - Executed command: menu with args: []. Result: None
 2024-11-01 15:04:29,395 - root - ERROR - Cannot divide by zero
 2024-11-01 15:04:29,395 - root - INFO - Executed command: divide with args: ['12', '0']. Result: Cannot divide by zero
+2024-11-01 15:16:33,448 - root - INFO - Logging configured.
+2024-11-01 15:16:33,449 - root - INFO - Environment variables loaded.
+2024-11-01 15:16:33,812 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:16:36,071 - root - WARNING - No calculations in history to write.
+2024-11-01 15:16:36,072 - root - INFO - Executed command: pandas with args: []. Result: No calculations in history to write.
+2024-11-01 15:16:43,064 - root - WARNING - The pandas history file is empty.
+2024-11-01 15:16:43,065 - root - INFO - Executed command: pandas-history with args: []. Result: The pandas history file is empty.
+2024-11-01 15:17:50,059 - root - INFO - Logging configured.
+2024-11-01 15:17:50,059 - root - WARNING - this is a test
+2024-11-01 15:17:50,063 - root - INFO - Logging configured.
+2024-11-01 15:17:50,063 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:50,376 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:50,378 - root - INFO - Logging configured.
+2024-11-01 15:17:50,378 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:50,378 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:50,378 - root - ERROR - No command: unknown_command
+2024-11-01 15:17:50,380 - root - INFO - Logging configured.
+2024-11-01 15:17:50,380 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:50,381 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:50,381 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-11-01 15:17:50,383 - root - INFO - Logging configured.
+2024-11-01 15:17:50,383 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:50,384 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:50,384 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-11-01 15:17:50,386 - root - INFO - Logging configured.
+2024-11-01 15:17:50,386 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:50,386 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:50,386 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-11-01 15:17:50,388 - root - INFO - Logging configured.
+2024-11-01 15:17:50,388 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:50,389 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:50,389 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-11-01 15:17:50,391 - root - INFO - Logging configured.
+2024-11-01 15:17:50,391 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:50,392 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:50,392 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:50,397 - root - INFO - Logging configured.
+2024-11-01 15:17:50,397 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:50,398 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:50,398 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:17:50,400 - root - INFO - Logging configured.
+2024-11-01 15:17:50,400 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:50,401 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:50,401 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:17:50,402 - root - INFO - Logging configured.
+2024-11-01 15:17:50,403 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:50,404 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:50,404 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-11-01 15:17:50,405 - root - INFO - Logging configured.
+2024-11-01 15:17:50,406 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:50,407 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:50,407 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-11-01 15:17:50,408 - root - INFO - Logging configured.
+2024-11-01 15:17:50,409 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:50,410 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:50,410 - root - ERROR - Cannot divide by zero
+2024-11-01 15:17:50,410 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-11-01 15:17:50,411 - root - INFO - Logging configured.
+2024-11-01 15:17:50,411 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:50,412 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:50,413 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-11-01 15:17:50,413 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:17:50,413 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-11-01 15:17:50,413 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-11-01 15:17:50,414 - root - INFO - Logging configured.
+2024-11-01 15:17:50,414 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:50,415 - root - INFO - Logging configured.
+2024-11-01 15:17:50,416 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:50,417 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:50,417 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:17:50,417 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-11-01 15:17:50,417 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-11-01 15:17:50,417 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-11-01 15:17:50,417 - root - INFO - Executed command: history with args: []. Result: None
+2024-11-01 15:17:53,338 - root - INFO - Logging configured.
+2024-11-01 15:17:53,338 - root - WARNING - this is a test
+2024-11-01 15:17:53,343 - root - INFO - Logging configured.
+2024-11-01 15:17:53,343 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:53,626 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:53,629 - root - INFO - Logging configured.
+2024-11-01 15:17:53,630 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:53,630 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:53,630 - root - ERROR - No command: unknown_command
+2024-11-01 15:17:53,632 - root - INFO - Logging configured.
+2024-11-01 15:17:53,633 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:53,634 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:53,634 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-11-01 15:17:53,637 - root - INFO - Logging configured.
+2024-11-01 15:17:53,637 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:53,638 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:53,638 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-11-01 15:17:53,640 - root - INFO - Logging configured.
+2024-11-01 15:17:53,641 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:53,641 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:53,641 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-11-01 15:17:53,643 - root - INFO - Logging configured.
+2024-11-01 15:17:53,644 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:53,644 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:53,645 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-11-01 15:17:53,647 - root - INFO - Logging configured.
+2024-11-01 15:17:53,647 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:53,648 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:53,648 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:53,655 - root - INFO - Logging configured.
+2024-11-01 15:17:53,655 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:53,657 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:53,657 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:17:53,659 - root - INFO - Logging configured.
+2024-11-01 15:17:53,659 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:53,660 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:53,661 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:17:53,662 - root - INFO - Logging configured.
+2024-11-01 15:17:53,662 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:53,664 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:53,664 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-11-01 15:17:53,666 - root - INFO - Logging configured.
+2024-11-01 15:17:53,666 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:53,667 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:53,668 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-11-01 15:17:53,669 - root - INFO - Logging configured.
+2024-11-01 15:17:53,670 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:53,671 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:53,671 - root - ERROR - Cannot divide by zero
+2024-11-01 15:17:53,671 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-11-01 15:17:53,673 - root - INFO - Logging configured.
+2024-11-01 15:17:53,673 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:53,675 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:53,675 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-11-01 15:17:53,675 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:17:53,675 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-11-01 15:17:53,675 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-11-01 15:17:53,676 - root - INFO - Logging configured.
+2024-11-01 15:17:53,677 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:53,678 - root - INFO - Logging configured.
+2024-11-01 15:17:53,678 - root - INFO - Environment variables loaded.
+2024-11-01 15:17:53,679 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:17:53,680 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:17:53,680 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-11-01 15:17:53,680 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-11-01 15:17:53,680 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-11-01 15:17:53,680 - root - INFO - Executed command: history with args: []. Result: None
+2024-11-01 15:20:06,988 - root - INFO - Logging configured.
+2024-11-01 15:20:06,988 - root - WARNING - this is a test
+2024-11-01 15:20:07,368 - root - INFO - Logging configured.
+2024-11-01 15:20:07,368 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:07,371 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:07,374 - root - INFO - Logging configured.
+2024-11-01 15:20:07,374 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:07,375 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:07,375 - root - ERROR - No command: unknown_command
+2024-11-01 15:20:07,377 - root - INFO - Logging configured.
+2024-11-01 15:20:07,378 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:07,378 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:07,378 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-11-01 15:20:07,381 - root - INFO - Logging configured.
+2024-11-01 15:20:07,381 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:07,382 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:07,382 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-11-01 15:20:07,384 - root - INFO - Logging configured.
+2024-11-01 15:20:07,384 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:07,385 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:07,385 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-11-01 15:20:07,387 - root - INFO - Logging configured.
+2024-11-01 15:20:07,388 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:07,388 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:07,388 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-11-01 15:20:07,390 - root - INFO - Logging configured.
+2024-11-01 15:20:07,391 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:07,392 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:07,392 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:07,398 - root - INFO - Logging configured.
+2024-11-01 15:20:07,399 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:07,400 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:07,400 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:20:07,402 - root - INFO - Logging configured.
+2024-11-01 15:20:07,402 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:07,404 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:07,404 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:20:07,405 - root - INFO - Logging configured.
+2024-11-01 15:20:07,406 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:07,407 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:07,407 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-11-01 15:20:07,408 - root - INFO - Logging configured.
+2024-11-01 15:20:07,409 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:07,410 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:07,410 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-11-01 15:20:07,412 - root - INFO - Logging configured.
+2024-11-01 15:20:07,412 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:07,414 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:07,414 - root - ERROR - Cannot divide by zero
+2024-11-01 15:20:07,414 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-11-01 15:20:07,415 - root - INFO - Logging configured.
+2024-11-01 15:20:07,416 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:07,417 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:07,417 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-11-01 15:20:07,418 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:20:07,418 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-11-01 15:20:07,418 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-11-01 15:20:07,419 - root - INFO - Logging configured.
+2024-11-01 15:20:07,420 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:07,421 - root - INFO - Logging configured.
+2024-11-01 15:20:07,421 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:07,423 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:07,423 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:20:07,423 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-11-01 15:20:07,423 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-11-01 15:20:07,423 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-11-01 15:20:07,423 - root - INFO - Executed command: history with args: []. Result: None
+2024-11-01 15:20:07,428 - root - WARNING - No calculations in history to write.
+2024-11-01 15:20:07,434 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:20:07,437 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:20:07,441 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:20:32,386 - root - INFO - Logging configured.
+2024-11-01 15:20:32,386 - root - WARNING - this is a test
+2024-11-01 15:20:32,710 - root - INFO - Logging configured.
+2024-11-01 15:20:32,711 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:32,714 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:32,716 - root - INFO - Logging configured.
+2024-11-01 15:20:32,717 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:32,717 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:32,717 - root - ERROR - No command: unknown_command
+2024-11-01 15:20:32,719 - root - INFO - Logging configured.
+2024-11-01 15:20:32,720 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:32,720 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:32,720 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-11-01 15:20:32,722 - root - INFO - Logging configured.
+2024-11-01 15:20:32,722 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:32,723 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:32,723 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-11-01 15:20:32,724 - root - INFO - Logging configured.
+2024-11-01 15:20:32,724 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:32,725 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:32,725 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-11-01 15:20:32,727 - root - INFO - Logging configured.
+2024-11-01 15:20:32,728 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:32,728 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:32,728 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-11-01 15:20:32,730 - root - INFO - Logging configured.
+2024-11-01 15:20:32,730 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:32,731 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:32,731 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:32,736 - root - INFO - Logging configured.
+2024-11-01 15:20:32,736 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:32,737 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:32,737 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:20:32,739 - root - INFO - Logging configured.
+2024-11-01 15:20:32,739 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:32,741 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:32,741 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:20:32,742 - root - INFO - Logging configured.
+2024-11-01 15:20:32,742 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:32,743 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:32,743 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-11-01 15:20:32,744 - root - INFO - Logging configured.
+2024-11-01 15:20:32,744 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:32,746 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:32,746 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-11-01 15:20:32,747 - root - INFO - Logging configured.
+2024-11-01 15:20:32,747 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:32,748 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:32,748 - root - ERROR - Cannot divide by zero
+2024-11-01 15:20:32,748 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-11-01 15:20:32,749 - root - INFO - Logging configured.
+2024-11-01 15:20:32,750 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:32,751 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:32,751 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-11-01 15:20:32,751 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:20:32,751 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-11-01 15:20:32,751 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-11-01 15:20:32,752 - root - INFO - Logging configured.
+2024-11-01 15:20:32,752 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:32,753 - root - INFO - Logging configured.
+2024-11-01 15:20:32,753 - root - INFO - Environment variables loaded.
+2024-11-01 15:20:32,755 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:20:32,755 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:20:32,755 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-11-01 15:20:32,755 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-11-01 15:20:32,755 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-11-01 15:20:32,755 - root - INFO - Executed command: history with args: []. Result: None
+2024-11-01 15:20:32,758 - root - WARNING - No calculations in history to write.
+2024-11-01 15:20:32,764 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:20:32,766 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:20:32,769 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:23:31,746 - root - INFO - Logging configured.
+2024-11-01 15:23:31,746 - root - WARNING - this is a test
+2024-11-01 15:23:32,085 - root - INFO - Logging configured.
+2024-11-01 15:23:32,085 - root - INFO - Environment variables loaded.
+2024-11-01 15:23:32,088 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:23:32,090 - root - INFO - Logging configured.
+2024-11-01 15:23:32,091 - root - INFO - Environment variables loaded.
+2024-11-01 15:23:32,091 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:23:32,091 - root - ERROR - No command: unknown_command
+2024-11-01 15:23:32,093 - root - INFO - Logging configured.
+2024-11-01 15:23:32,093 - root - INFO - Environment variables loaded.
+2024-11-01 15:23:32,094 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:23:32,094 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-11-01 15:23:32,096 - root - INFO - Logging configured.
+2024-11-01 15:23:32,097 - root - INFO - Environment variables loaded.
+2024-11-01 15:23:32,097 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:23:32,098 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-11-01 15:23:32,099 - root - INFO - Logging configured.
+2024-11-01 15:23:32,100 - root - INFO - Environment variables loaded.
+2024-11-01 15:23:32,100 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:23:32,100 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-11-01 15:23:32,102 - root - INFO - Logging configured.
+2024-11-01 15:23:32,102 - root - INFO - Environment variables loaded.
+2024-11-01 15:23:32,103 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:23:32,103 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-11-01 15:23:32,105 - root - INFO - Logging configured.
+2024-11-01 15:23:32,105 - root - INFO - Environment variables loaded.
+2024-11-01 15:23:32,106 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:23:32,106 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:23:32,110 - root - INFO - Logging configured.
+2024-11-01 15:23:32,110 - root - INFO - Environment variables loaded.
+2024-11-01 15:23:32,111 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:23:32,112 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:23:32,113 - root - INFO - Logging configured.
+2024-11-01 15:23:32,113 - root - INFO - Environment variables loaded.
+2024-11-01 15:23:32,114 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:23:32,114 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:23:32,115 - root - INFO - Logging configured.
+2024-11-01 15:23:32,116 - root - INFO - Environment variables loaded.
+2024-11-01 15:23:32,117 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:23:32,117 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-11-01 15:23:32,118 - root - INFO - Logging configured.
+2024-11-01 15:23:32,118 - root - INFO - Environment variables loaded.
+2024-11-01 15:23:32,119 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:23:32,119 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-11-01 15:23:32,121 - root - INFO - Logging configured.
+2024-11-01 15:23:32,121 - root - INFO - Environment variables loaded.
+2024-11-01 15:23:32,122 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:23:32,122 - root - ERROR - Cannot divide by zero
+2024-11-01 15:23:32,122 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-11-01 15:23:32,124 - root - INFO - Logging configured.
+2024-11-01 15:23:32,124 - root - INFO - Environment variables loaded.
+2024-11-01 15:23:32,125 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:23:32,125 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-11-01 15:23:32,125 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:23:32,125 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-11-01 15:23:32,125 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-11-01 15:23:32,126 - root - INFO - Logging configured.
+2024-11-01 15:23:32,126 - root - INFO - Environment variables loaded.
+2024-11-01 15:23:32,128 - root - INFO - Logging configured.
+2024-11-01 15:23:32,128 - root - INFO - Environment variables loaded.
+2024-11-01 15:23:32,129 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:23:32,129 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:23:32,129 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-11-01 15:23:32,129 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-11-01 15:23:32,129 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-11-01 15:23:32,129 - root - INFO - Executed command: history with args: []. Result: None
+2024-11-01 15:23:32,132 - root - WARNING - No calculations in history to write.
+2024-11-01 15:23:32,139 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:23:32,144 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:24:05,437 - root - INFO - Logging configured.
+2024-11-01 15:24:05,437 - root - WARNING - this is a test
+2024-11-01 15:24:05,777 - root - INFO - Logging configured.
+2024-11-01 15:24:05,777 - root - INFO - Environment variables loaded.
+2024-11-01 15:24:05,780 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:24:05,783 - root - INFO - Logging configured.
+2024-11-01 15:24:05,783 - root - INFO - Environment variables loaded.
+2024-11-01 15:24:05,784 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:24:05,784 - root - ERROR - No command: unknown_command
+2024-11-01 15:24:05,786 - root - INFO - Logging configured.
+2024-11-01 15:24:05,786 - root - INFO - Environment variables loaded.
+2024-11-01 15:24:05,786 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:24:05,787 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-11-01 15:24:05,789 - root - INFO - Logging configured.
+2024-11-01 15:24:05,790 - root - INFO - Environment variables loaded.
+2024-11-01 15:24:05,790 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:24:05,790 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-11-01 15:24:05,792 - root - INFO - Logging configured.
+2024-11-01 15:24:05,793 - root - INFO - Environment variables loaded.
+2024-11-01 15:24:05,793 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:24:05,793 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-11-01 15:24:05,796 - root - INFO - Logging configured.
+2024-11-01 15:24:05,796 - root - INFO - Environment variables loaded.
+2024-11-01 15:24:05,797 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:24:05,797 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-11-01 15:24:05,799 - root - INFO - Logging configured.
+2024-11-01 15:24:05,799 - root - INFO - Environment variables loaded.
+2024-11-01 15:24:05,800 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:24:05,800 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:24:05,805 - root - INFO - Logging configured.
+2024-11-01 15:24:05,806 - root - INFO - Environment variables loaded.
+2024-11-01 15:24:05,807 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:24:05,807 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:24:05,809 - root - INFO - Logging configured.
+2024-11-01 15:24:05,809 - root - INFO - Environment variables loaded.
+2024-11-01 15:24:05,810 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:24:05,810 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:24:05,811 - root - INFO - Logging configured.
+2024-11-01 15:24:05,811 - root - INFO - Environment variables loaded.
+2024-11-01 15:24:05,813 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:24:05,813 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-11-01 15:24:05,814 - root - INFO - Logging configured.
+2024-11-01 15:24:05,814 - root - INFO - Environment variables loaded.
+2024-11-01 15:24:05,815 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:24:05,815 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-11-01 15:24:05,817 - root - INFO - Logging configured.
+2024-11-01 15:24:05,817 - root - INFO - Environment variables loaded.
+2024-11-01 15:24:05,818 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:24:05,818 - root - ERROR - Cannot divide by zero
+2024-11-01 15:24:05,818 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-11-01 15:24:05,819 - root - INFO - Logging configured.
+2024-11-01 15:24:05,820 - root - INFO - Environment variables loaded.
+2024-11-01 15:24:05,821 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:24:05,821 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-11-01 15:24:05,821 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:24:05,821 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-11-01 15:24:05,821 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-11-01 15:24:05,822 - root - INFO - Logging configured.
+2024-11-01 15:24:05,822 - root - INFO - Environment variables loaded.
+2024-11-01 15:24:05,823 - root - INFO - Logging configured.
+2024-11-01 15:24:05,823 - root - INFO - Environment variables loaded.
+2024-11-01 15:24:05,825 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:24:05,825 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:24:05,825 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-11-01 15:24:05,825 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-11-01 15:24:05,825 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-11-01 15:24:05,825 - root - INFO - Executed command: history with args: []. Result: None
+2024-11-01 15:24:05,828 - root - WARNING - No calculations in history to write.
+2024-11-01 15:24:05,833 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:24:05,836 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:24:05,838 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:25:11,483 - root - INFO - Logging configured.
+2024-11-01 15:25:11,484 - root - WARNING - this is a test
+2024-11-01 15:25:11,866 - root - INFO - Logging configured.
+2024-11-01 15:25:11,866 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:11,871 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:11,875 - root - INFO - Logging configured.
+2024-11-01 15:25:11,876 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:11,877 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:11,877 - root - ERROR - No command: unknown_command
+2024-11-01 15:25:11,879 - root - INFO - Logging configured.
+2024-11-01 15:25:11,879 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:11,880 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:11,880 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-11-01 15:25:11,882 - root - INFO - Logging configured.
+2024-11-01 15:25:11,883 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:11,883 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:11,883 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-11-01 15:25:11,885 - root - INFO - Logging configured.
+2024-11-01 15:25:11,886 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:11,887 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:11,887 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-11-01 15:25:11,890 - root - INFO - Logging configured.
+2024-11-01 15:25:11,890 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:11,890 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:11,891 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-11-01 15:25:11,893 - root - INFO - Logging configured.
+2024-11-01 15:25:11,894 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:11,894 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:11,895 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:11,901 - root - INFO - Logging configured.
+2024-11-01 15:25:11,901 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:11,903 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:11,903 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:25:11,904 - root - INFO - Logging configured.
+2024-11-01 15:25:11,905 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:11,906 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:11,906 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:25:11,908 - root - INFO - Logging configured.
+2024-11-01 15:25:11,908 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:11,910 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:11,910 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-11-01 15:25:11,912 - root - INFO - Logging configured.
+2024-11-01 15:25:11,912 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:11,913 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:11,913 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-11-01 15:25:11,915 - root - INFO - Logging configured.
+2024-11-01 15:25:11,915 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:11,917 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:11,917 - root - ERROR - Cannot divide by zero
+2024-11-01 15:25:11,917 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-11-01 15:25:11,918 - root - INFO - Logging configured.
+2024-11-01 15:25:11,919 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:11,920 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:11,920 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-11-01 15:25:11,920 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:25:11,920 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-11-01 15:25:11,920 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-11-01 15:25:11,922 - root - INFO - Logging configured.
+2024-11-01 15:25:11,922 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:11,924 - root - INFO - Logging configured.
+2024-11-01 15:25:11,924 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:11,925 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:11,925 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:25:11,926 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-11-01 15:25:11,926 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-11-01 15:25:11,926 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-11-01 15:25:11,926 - root - INFO - Executed command: history with args: []. Result: None
+2024-11-01 15:25:11,931 - root - WARNING - No calculations in history to write.
+2024-11-01 15:25:11,936 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:25:11,939 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:25:11,942 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:25:35,961 - root - INFO - Logging configured.
+2024-11-01 15:25:35,962 - root - WARNING - this is a test
+2024-11-01 15:25:36,334 - root - INFO - Logging configured.
+2024-11-01 15:25:36,334 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:36,337 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:36,341 - root - INFO - Logging configured.
+2024-11-01 15:25:36,342 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:36,342 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:36,342 - root - ERROR - No command: unknown_command
+2024-11-01 15:25:36,345 - root - INFO - Logging configured.
+2024-11-01 15:25:36,345 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:36,346 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:36,346 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-11-01 15:25:36,348 - root - INFO - Logging configured.
+2024-11-01 15:25:36,348 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:36,349 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:36,349 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-11-01 15:25:36,351 - root - INFO - Logging configured.
+2024-11-01 15:25:36,352 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:36,352 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:36,353 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-11-01 15:25:36,355 - root - INFO - Logging configured.
+2024-11-01 15:25:36,355 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:36,356 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:36,356 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-11-01 15:25:36,358 - root - INFO - Logging configured.
+2024-11-01 15:25:36,358 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:36,359 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:36,359 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:36,365 - root - INFO - Logging configured.
+2024-11-01 15:25:36,366 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:36,367 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:36,367 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:25:36,369 - root - INFO - Logging configured.
+2024-11-01 15:25:36,369 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:36,370 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:36,370 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:25:36,372 - root - INFO - Logging configured.
+2024-11-01 15:25:36,373 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:36,374 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:36,374 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-11-01 15:25:36,376 - root - INFO - Logging configured.
+2024-11-01 15:25:36,376 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:36,378 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:36,378 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-11-01 15:25:36,379 - root - INFO - Logging configured.
+2024-11-01 15:25:36,380 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:36,381 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:36,381 - root - ERROR - Cannot divide by zero
+2024-11-01 15:25:36,381 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-11-01 15:25:36,382 - root - INFO - Logging configured.
+2024-11-01 15:25:36,383 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:36,384 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:36,384 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-11-01 15:25:36,384 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:25:36,385 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-11-01 15:25:36,385 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-11-01 15:25:36,386 - root - INFO - Logging configured.
+2024-11-01 15:25:36,386 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:36,388 - root - INFO - Logging configured.
+2024-11-01 15:25:36,388 - root - INFO - Environment variables loaded.
+2024-11-01 15:25:36,389 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:25:36,389 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:25:36,389 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-11-01 15:25:36,390 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-11-01 15:25:36,390 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-11-01 15:25:36,390 - root - INFO - Executed command: history with args: []. Result: None
+2024-11-01 15:25:36,394 - root - WARNING - No calculations in history to write.
+2024-11-01 15:25:36,399 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:25:36,403 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:25:36,406 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:28:07,118 - root - INFO - Logging configured.
+2024-11-01 15:28:07,119 - root - WARNING - this is a test
+2024-11-01 15:28:07,460 - root - INFO - Logging configured.
+2024-11-01 15:28:07,461 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:07,463 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:07,466 - root - INFO - Logging configured.
+2024-11-01 15:28:07,466 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:07,467 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:07,467 - root - ERROR - No command: unknown_command
+2024-11-01 15:28:07,469 - root - INFO - Logging configured.
+2024-11-01 15:28:07,469 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:07,471 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:07,471 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-11-01 15:28:07,478 - root - INFO - Logging configured.
+2024-11-01 15:28:07,479 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:07,485 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:07,486 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-11-01 15:28:07,511 - root - INFO - Logging configured.
+2024-11-01 15:28:07,512 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:07,512 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:07,513 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-11-01 15:28:07,515 - root - INFO - Logging configured.
+2024-11-01 15:28:07,517 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:07,520 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:07,520 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-11-01 15:28:07,524 - root - INFO - Logging configured.
+2024-11-01 15:28:07,525 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:07,525 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:07,525 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:07,527 - root - ERROR - Invalid number format: ['a', '3']
+2024-11-01 15:28:07,533 - root - WARNING - Invalid number of arguments: ['5']
+2024-11-01 15:28:07,533 - root - WARNING - Invalid number of arguments: ['5', '3', '2']
+2024-11-01 15:28:07,534 - root - WARNING - Invalid number of arguments: []
+2024-11-01 15:28:07,538 - root - INFO - Logging configured.
+2024-11-01 15:28:07,538 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:07,540 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:07,540 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:28:07,541 - root - INFO - Logging configured.
+2024-11-01 15:28:07,541 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:07,542 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:07,542 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:28:07,543 - root - INFO - Logging configured.
+2024-11-01 15:28:07,544 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:07,545 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:07,545 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-11-01 15:28:07,546 - root - INFO - Logging configured.
+2024-11-01 15:28:07,546 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:07,547 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:07,547 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-11-01 15:28:07,548 - root - INFO - Logging configured.
+2024-11-01 15:28:07,549 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:07,550 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:07,550 - root - ERROR - Cannot divide by zero
+2024-11-01 15:28:07,550 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-11-01 15:28:07,551 - root - INFO - Logging configured.
+2024-11-01 15:28:07,551 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:07,552 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:07,553 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-11-01 15:28:07,553 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:28:07,553 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-11-01 15:28:07,553 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-11-01 15:28:07,554 - root - INFO - Logging configured.
+2024-11-01 15:28:07,554 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:07,555 - root - INFO - Logging configured.
+2024-11-01 15:28:07,555 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:07,556 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:07,556 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:28:07,556 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-11-01 15:28:07,556 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-11-01 15:28:07,556 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-11-01 15:28:07,556 - root - INFO - Executed command: history with args: []. Result: None
+2024-11-01 15:28:07,560 - root - WARNING - No calculations in history to write.
+2024-11-01 15:28:07,565 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:28:07,568 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:28:07,570 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:28:16,333 - root - INFO - Logging configured.
+2024-11-01 15:28:16,333 - root - WARNING - this is a test
+2024-11-01 15:28:16,603 - root - INFO - Logging configured.
+2024-11-01 15:28:16,604 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:16,611 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:16,613 - root - INFO - Logging configured.
+2024-11-01 15:28:16,614 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:16,614 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:16,614 - root - ERROR - No command: unknown_command
+2024-11-01 15:28:16,617 - root - INFO - Logging configured.
+2024-11-01 15:28:16,617 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:16,618 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:16,618 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-11-01 15:28:16,620 - root - INFO - Logging configured.
+2024-11-01 15:28:16,620 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:16,621 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:16,621 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-11-01 15:28:16,624 - root - INFO - Logging configured.
+2024-11-01 15:28:16,624 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:16,625 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:16,625 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-11-01 15:28:16,627 - root - INFO - Logging configured.
+2024-11-01 15:28:16,628 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:16,628 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:16,628 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-11-01 15:28:16,631 - root - INFO - Logging configured.
+2024-11-01 15:28:16,631 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:16,632 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:16,632 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:16,634 - root - ERROR - Invalid number format: ['a', '3']
+2024-11-01 15:28:16,638 - root - WARNING - Invalid number of arguments: ['5']
+2024-11-01 15:28:16,639 - root - WARNING - Invalid number of arguments: ['5', '3', '2']
+2024-11-01 15:28:16,640 - root - WARNING - Invalid number of arguments: []
+2024-11-01 15:28:16,646 - root - INFO - Logging configured.
+2024-11-01 15:28:16,646 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:16,648 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:16,648 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:28:16,650 - root - INFO - Logging configured.
+2024-11-01 15:28:16,650 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:16,651 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:16,652 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:28:16,653 - root - INFO - Logging configured.
+2024-11-01 15:28:16,654 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:16,655 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:16,655 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-11-01 15:28:16,657 - root - INFO - Logging configured.
+2024-11-01 15:28:16,657 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:16,659 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:16,659 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-11-01 15:28:16,661 - root - INFO - Logging configured.
+2024-11-01 15:28:16,661 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:16,662 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:16,663 - root - ERROR - Cannot divide by zero
+2024-11-01 15:28:16,663 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-11-01 15:28:16,664 - root - INFO - Logging configured.
+2024-11-01 15:28:16,665 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:16,666 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:16,666 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-11-01 15:28:16,666 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:28:16,666 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-11-01 15:28:16,666 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-11-01 15:28:16,668 - root - INFO - Logging configured.
+2024-11-01 15:28:16,668 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:16,669 - root - INFO - Logging configured.
+2024-11-01 15:28:16,670 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:16,671 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:16,671 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:28:16,671 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-11-01 15:28:16,671 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-11-01 15:28:16,671 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-11-01 15:28:16,671 - root - INFO - Executed command: history with args: []. Result: None
+2024-11-01 15:28:16,676 - root - WARNING - No calculations in history to write.
+2024-11-01 15:28:16,679 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:28:16,682 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:28:16,685 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:28:20,173 - root - INFO - Logging configured.
+2024-11-01 15:28:20,173 - root - WARNING - this is a test
+2024-11-01 15:28:20,472 - root - INFO - Logging configured.
+2024-11-01 15:28:20,472 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:20,474 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:20,477 - root - INFO - Logging configured.
+2024-11-01 15:28:20,478 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:20,478 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:20,479 - root - ERROR - No command: unknown_command
+2024-11-01 15:28:20,481 - root - INFO - Logging configured.
+2024-11-01 15:28:20,481 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:20,482 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:20,482 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-11-01 15:28:20,485 - root - INFO - Logging configured.
+2024-11-01 15:28:20,485 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:20,486 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:20,486 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-11-01 15:28:20,488 - root - INFO - Logging configured.
+2024-11-01 15:28:20,489 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:20,489 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:20,489 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-11-01 15:28:20,491 - root - INFO - Logging configured.
+2024-11-01 15:28:20,492 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:20,492 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:20,492 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-11-01 15:28:20,495 - root - INFO - Logging configured.
+2024-11-01 15:28:20,496 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:20,496 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:20,496 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:20,498 - root - ERROR - Invalid number format: ['a', '3']
+2024-11-01 15:28:20,501 - root - WARNING - Invalid number of arguments: ['5']
+2024-11-01 15:28:20,502 - root - WARNING - Invalid number of arguments: ['5', '3', '2']
+2024-11-01 15:28:20,503 - root - WARNING - Invalid number of arguments: []
+2024-11-01 15:28:20,510 - root - INFO - Logging configured.
+2024-11-01 15:28:20,510 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:20,511 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:20,511 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:28:20,513 - root - INFO - Logging configured.
+2024-11-01 15:28:20,514 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:20,516 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:20,516 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:28:20,517 - root - INFO - Logging configured.
+2024-11-01 15:28:20,518 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:20,520 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:20,520 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-11-01 15:28:20,521 - root - INFO - Logging configured.
+2024-11-01 15:28:20,522 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:20,523 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:20,523 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-11-01 15:28:20,524 - root - INFO - Logging configured.
+2024-11-01 15:28:20,525 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:20,526 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:20,526 - root - ERROR - Cannot divide by zero
+2024-11-01 15:28:20,526 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-11-01 15:28:20,528 - root - INFO - Logging configured.
+2024-11-01 15:28:20,528 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:20,529 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:20,529 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-11-01 15:28:20,530 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:28:20,530 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-11-01 15:28:20,530 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-11-01 15:28:20,531 - root - INFO - Logging configured.
+2024-11-01 15:28:20,532 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:20,533 - root - INFO - Logging configured.
+2024-11-01 15:28:20,533 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:20,534 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:20,534 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:28:20,535 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-11-01 15:28:20,535 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-11-01 15:28:20,535 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-11-01 15:28:20,535 - root - INFO - Executed command: history with args: []. Result: None
+2024-11-01 15:28:20,539 - root - WARNING - No calculations in history to write.
+2024-11-01 15:28:20,542 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:28:20,545 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:28:20,548 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:28:22,941 - root - INFO - Logging configured.
+2024-11-01 15:28:22,941 - root - WARNING - this is a test
+2024-11-01 15:28:23,207 - root - INFO - Logging configured.
+2024-11-01 15:28:23,209 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:23,214 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:23,218 - root - INFO - Logging configured.
+2024-11-01 15:28:23,219 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:23,220 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:23,220 - root - ERROR - No command: unknown_command
+2024-11-01 15:28:23,223 - root - INFO - Logging configured.
+2024-11-01 15:28:23,223 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:23,224 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:23,224 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-11-01 15:28:23,226 - root - INFO - Logging configured.
+2024-11-01 15:28:23,226 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:23,227 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:23,227 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-11-01 15:28:23,229 - root - INFO - Logging configured.
+2024-11-01 15:28:23,229 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:23,230 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:23,230 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-11-01 15:28:23,233 - root - INFO - Logging configured.
+2024-11-01 15:28:23,233 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:23,234 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:23,234 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-11-01 15:28:23,236 - root - INFO - Logging configured.
+2024-11-01 15:28:23,237 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:23,237 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:23,238 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:23,239 - root - ERROR - Invalid number format: ['a', '3']
+2024-11-01 15:28:23,242 - root - WARNING - Invalid number of arguments: ['5']
+2024-11-01 15:28:23,243 - root - WARNING - Invalid number of arguments: ['5', '3', '2']
+2024-11-01 15:28:23,244 - root - WARNING - Invalid number of arguments: []
+2024-11-01 15:28:23,250 - root - INFO - Logging configured.
+2024-11-01 15:28:23,251 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:23,252 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:23,252 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:28:23,254 - root - INFO - Logging configured.
+2024-11-01 15:28:23,255 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:23,256 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:23,256 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:28:23,258 - root - INFO - Logging configured.
+2024-11-01 15:28:23,258 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:23,260 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:23,260 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-11-01 15:28:23,261 - root - INFO - Logging configured.
+2024-11-01 15:28:23,262 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:23,263 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:23,263 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-11-01 15:28:23,265 - root - INFO - Logging configured.
+2024-11-01 15:28:23,265 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:23,267 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:23,267 - root - ERROR - Cannot divide by zero
+2024-11-01 15:28:23,267 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-11-01 15:28:23,269 - root - INFO - Logging configured.
+2024-11-01 15:28:23,269 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:23,271 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:23,271 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-11-01 15:28:23,271 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:28:23,271 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-11-01 15:28:23,271 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-11-01 15:28:23,276 - root - INFO - Logging configured.
+2024-11-01 15:28:23,276 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:23,278 - root - INFO - Logging configured.
+2024-11-01 15:28:23,278 - root - INFO - Environment variables loaded.
+2024-11-01 15:28:23,279 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:28:23,279 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:28:23,280 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-11-01 15:28:23,280 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-11-01 15:28:23,280 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-11-01 15:28:23,280 - root - INFO - Executed command: history with args: []. Result: None
+2024-11-01 15:28:23,284 - root - WARNING - No calculations in history to write.
+2024-11-01 15:28:23,287 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:28:23,291 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:28:23,294 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:32:32,404 - root - INFO - Logging configured.
+2024-11-01 15:32:32,404 - root - WARNING - this is a test
+2024-11-01 15:32:32,743 - root - INFO - Logging configured.
+2024-11-01 15:32:32,743 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:32,746 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:32,748 - root - INFO - Logging configured.
+2024-11-01 15:32:32,749 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:32,749 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:32,749 - root - ERROR - No command: unknown_command
+2024-11-01 15:32:32,752 - root - INFO - Logging configured.
+2024-11-01 15:32:32,753 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:32,753 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:32,753 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-11-01 15:32:32,756 - root - INFO - Logging configured.
+2024-11-01 15:32:32,756 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:32,756 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:32,757 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-11-01 15:32:32,758 - root - INFO - Logging configured.
+2024-11-01 15:32:32,759 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:32,759 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:32,759 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-11-01 15:32:32,761 - root - INFO - Logging configured.
+2024-11-01 15:32:32,761 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:32,762 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:32,762 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-11-01 15:32:32,763 - root - INFO - Logging configured.
+2024-11-01 15:32:32,764 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:32,764 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:32,764 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:32,766 - root - ERROR - Invalid number format: ['a', '3']
+2024-11-01 15:32:32,769 - root - WARNING - Invalid number of arguments: ['5']
+2024-11-01 15:32:32,770 - root - WARNING - Invalid number of arguments: ['5', '3', '2']
+2024-11-01 15:32:32,770 - root - WARNING - Invalid number of arguments: []
+2024-11-01 15:32:32,774 - root - INFO - Logging configured.
+2024-11-01 15:32:32,775 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:32,776 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:32,776 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:32:32,777 - root - INFO - Logging configured.
+2024-11-01 15:32:32,777 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:32,779 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:32,779 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:32:32,780 - root - INFO - Logging configured.
+2024-11-01 15:32:32,780 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:32,782 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:32,782 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-11-01 15:32:32,783 - root - INFO - Logging configured.
+2024-11-01 15:32:32,783 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:32,784 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:32,784 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-11-01 15:32:32,787 - root - INFO - Logging configured.
+2024-11-01 15:32:32,787 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:32,788 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:32,788 - root - ERROR - Cannot divide by zero
+2024-11-01 15:32:32,788 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-11-01 15:32:32,789 - root - INFO - Logging configured.
+2024-11-01 15:32:32,790 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:32,791 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:32,791 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-11-01 15:32:32,791 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:32:32,791 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-11-01 15:32:32,791 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-11-01 15:32:32,792 - root - INFO - Logging configured.
+2024-11-01 15:32:32,793 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:32,793 - root - INFO - Logging configured.
+2024-11-01 15:32:32,794 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:32,796 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:32,796 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:32:32,796 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-11-01 15:32:32,796 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-11-01 15:32:32,796 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-11-01 15:32:32,796 - root - INFO - Executed command: history with args: []. Result: None
+2024-11-01 15:32:32,799 - root - WARNING - No calculations in history to write.
+2024-11-01 15:32:32,804 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:32:32,807 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:32:32,809 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:32:32,812 - root - WARNING - The pandas history file is empty.
+2024-11-01 15:32:32,816 - root - INFO - Pandas history displayed successfully.
+2024-11-01 15:32:32,817 - root - ERROR - Error reading pandas history: Test error
+2024-11-01 15:32:37,140 - root - INFO - Logging configured.
+2024-11-01 15:32:37,140 - root - WARNING - this is a test
+2024-11-01 15:32:37,450 - root - INFO - Logging configured.
+2024-11-01 15:32:37,450 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:37,452 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:37,455 - root - INFO - Logging configured.
+2024-11-01 15:32:37,455 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:37,456 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:37,456 - root - ERROR - No command: unknown_command
+2024-11-01 15:32:37,458 - root - INFO - Logging configured.
+2024-11-01 15:32:37,459 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:37,459 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:37,459 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-11-01 15:32:37,462 - root - INFO - Logging configured.
+2024-11-01 15:32:37,463 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:37,464 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:37,464 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-11-01 15:32:37,466 - root - INFO - Logging configured.
+2024-11-01 15:32:37,466 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:37,467 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:37,467 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-11-01 15:32:37,470 - root - INFO - Logging configured.
+2024-11-01 15:32:37,471 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:37,471 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:37,471 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-11-01 15:32:37,474 - root - INFO - Logging configured.
+2024-11-01 15:32:37,474 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:37,475 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:37,475 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:37,477 - root - ERROR - Invalid number format: ['a', '3']
+2024-11-01 15:32:37,479 - root - WARNING - Invalid number of arguments: ['5']
+2024-11-01 15:32:37,480 - root - WARNING - Invalid number of arguments: ['5', '3', '2']
+2024-11-01 15:32:37,482 - root - WARNING - Invalid number of arguments: []
+2024-11-01 15:32:37,488 - root - INFO - Logging configured.
+2024-11-01 15:32:37,488 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:37,490 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:37,490 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:32:37,491 - root - INFO - Logging configured.
+2024-11-01 15:32:37,492 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:37,493 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:37,493 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:32:37,495 - root - INFO - Logging configured.
+2024-11-01 15:32:37,495 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:37,497 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:37,497 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-11-01 15:32:37,498 - root - INFO - Logging configured.
+2024-11-01 15:32:37,499 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:37,500 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:37,500 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-11-01 15:32:37,502 - root - INFO - Logging configured.
+2024-11-01 15:32:37,502 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:37,504 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:37,504 - root - ERROR - Cannot divide by zero
+2024-11-01 15:32:37,504 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-11-01 15:32:37,506 - root - INFO - Logging configured.
+2024-11-01 15:32:37,506 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:37,507 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:37,507 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-11-01 15:32:37,507 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:32:37,507 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-11-01 15:32:37,508 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-11-01 15:32:37,509 - root - INFO - Logging configured.
+2024-11-01 15:32:37,509 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:37,511 - root - INFO - Logging configured.
+2024-11-01 15:32:37,511 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:37,513 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:37,513 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:32:37,513 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-11-01 15:32:37,513 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-11-01 15:32:37,513 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-11-01 15:32:37,513 - root - INFO - Executed command: history with args: []. Result: None
+2024-11-01 15:32:37,517 - root - WARNING - No calculations in history to write.
+2024-11-01 15:32:37,520 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:32:37,524 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:32:37,527 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:32:37,531 - root - WARNING - The pandas history file is empty.
+2024-11-01 15:32:37,533 - root - INFO - Pandas history displayed successfully.
+2024-11-01 15:32:37,536 - root - ERROR - Error reading pandas history: Test error
+2024-11-01 15:32:39,820 - root - INFO - Logging configured.
+2024-11-01 15:32:39,820 - root - WARNING - this is a test
+2024-11-01 15:32:40,086 - root - INFO - Logging configured.
+2024-11-01 15:32:40,087 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:40,089 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:40,093 - root - INFO - Logging configured.
+2024-11-01 15:32:40,094 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:40,096 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:40,096 - root - ERROR - No command: unknown_command
+2024-11-01 15:32:40,099 - root - INFO - Logging configured.
+2024-11-01 15:32:40,099 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:40,100 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:40,100 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-11-01 15:32:40,102 - root - INFO - Logging configured.
+2024-11-01 15:32:40,103 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:40,104 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:40,104 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-11-01 15:32:40,106 - root - INFO - Logging configured.
+2024-11-01 15:32:40,107 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:40,107 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:40,108 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-11-01 15:32:40,110 - root - INFO - Logging configured.
+2024-11-01 15:32:40,110 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:40,111 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:40,111 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-11-01 15:32:40,113 - root - INFO - Logging configured.
+2024-11-01 15:32:40,114 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:40,114 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:40,114 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:40,116 - root - ERROR - Invalid number format: ['a', '3']
+2024-11-01 15:32:40,119 - root - WARNING - Invalid number of arguments: ['5']
+2024-11-01 15:32:40,120 - root - WARNING - Invalid number of arguments: ['5', '3', '2']
+2024-11-01 15:32:40,121 - root - WARNING - Invalid number of arguments: []
+2024-11-01 15:32:40,127 - root - INFO - Logging configured.
+2024-11-01 15:32:40,127 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:40,129 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:40,129 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:32:40,131 - root - INFO - Logging configured.
+2024-11-01 15:32:40,132 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:40,133 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:40,133 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:32:40,135 - root - INFO - Logging configured.
+2024-11-01 15:32:40,135 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:40,137 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:40,137 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-11-01 15:32:40,139 - root - INFO - Logging configured.
+2024-11-01 15:32:40,139 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:40,141 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:40,141 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-11-01 15:32:40,143 - root - INFO - Logging configured.
+2024-11-01 15:32:40,143 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:40,144 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:40,145 - root - ERROR - Cannot divide by zero
+2024-11-01 15:32:40,145 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-11-01 15:32:40,147 - root - INFO - Logging configured.
+2024-11-01 15:32:40,148 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:40,149 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:40,149 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-11-01 15:32:40,149 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-11-01 15:32:40,149 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-11-01 15:32:40,149 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-11-01 15:32:40,151 - root - INFO - Logging configured.
+2024-11-01 15:32:40,152 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:40,153 - root - INFO - Logging configured.
+2024-11-01 15:32:40,153 - root - INFO - Environment variables loaded.
+2024-11-01 15:32:40,155 - root - INFO - Executed command: menu with args: []. Result: None
+2024-11-01 15:32:40,155 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-11-01 15:32:40,155 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-11-01 15:32:40,155 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-11-01 15:32:40,155 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-11-01 15:32:40,155 - root - INFO - Executed command: history with args: []. Result: None
+2024-11-01 15:32:40,160 - root - WARNING - No calculations in history to write.
+2024-11-01 15:32:40,163 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:32:40,166 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:32:40,169 - root - INFO - Calculation history appended to pandas.csv
+2024-11-01 15:32:40,174 - root - WARNING - The pandas history file is empty.
+2024-11-01 15:32:40,176 - root - INFO - Pandas history displayed successfully.
+2024-11-01 15:32:40,178 - root - ERROR - Error reading pandas history: Test error
