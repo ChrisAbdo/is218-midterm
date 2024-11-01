@@ -9,5 +9,5 @@ class HistoryCommand(Command):
         else:
             for index, calc in enumerate(history, start=1):
                 op_name = calc.op.__name__
-                result = calc.execute_calculation()
+                result = calc.execute()
                 print(f"{index}: {calc.num1} {op_name} {calc.num2} = {result}")
