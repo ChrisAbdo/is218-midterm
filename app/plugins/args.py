@@ -1,7 +1,7 @@
 from decimal import Decimal, InvalidOperation
 from typing import List, Tuple
 # 
-def parse_two_decimal_args(args: List[str]) -> Tuple[Decimal, Decimal]:
+def get_args(args: List[str]) -> Tuple[Decimal, Decimal]:
     if len(args) != 2:
         raise ValueError("Usage: command <number1> <number2>")
     
