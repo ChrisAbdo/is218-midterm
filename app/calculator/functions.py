@@ -1,7 +1,7 @@
 from typing import List
 from .calculations import Calculations
 
-class Calculations:
+class Functions:
     calculation_history: List[Calculations] = []
 
     @classmethod
