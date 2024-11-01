@@ -8,5 +8,8 @@ class MenuCommand(Command):
         print("- multiply")
         print("- divide")
         print("- history")
+        print("- pandas (append calculation history to pandas.csv)")
+        print("- pandas-history (display calculation history from pandas.csv)")
+        print("- pandas-clear (clear all calculations from pandas.csv)")
         print("- menu (display this menu)")
         print("- exit (quit the app)")
