@@ -8,6 +8,4 @@ class HistoryCommand(Command):
             print("No calculations have been performed yet.")
         else:
             for index, calc in enumerate(history, start=1):
-                op_name = calc.op.__name__
-                result = calc.execute()
-                print(f"{index}: {calc.num1} {op_name} {calc.num2} = {result}")
+                print(f"{index}: {calc['num1']} {calc['operation']} {calc['num2']} = {calc['result']}")

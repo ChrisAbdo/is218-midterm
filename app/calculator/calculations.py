@@ -1,30 +1,31 @@
-from typing import List, Callable
+from typing import Dict, List, Callable
 from decimal import Decimal
+from app.pd.operations import PandasOperations
 
 class Calculations:
-    calculation_history: List['Calculations'] = []
-
-    def __init__(self, num1: Decimal, num2: Decimal, op: Callable[[Decimal, Decimal], Decimal]):
-        self.num1 = num1
-        self.num2 = num2
-        self.op = op
-        self.result = None
-    
-    @staticmethod
-    def create(num1: Decimal, num2: Decimal, op: Callable[[Decimal, Decimal], Decimal]):
-        calculation = Calculations(num1, num2, op)
-        Calculations.calculation_history.append(calculation)
+    @classmethod
+    def create(cls, num1: Decimal, num2: Decimal, op: Callable[[Decimal, Decimal], Decimal]):
+        calculation = cls(num1, num2, op)
+        result = calculation.execute()
+        history_entry = {
+            'num1': str(num1),
+            'num2': str(num2),
+            'operation': op.__name__,
+            'result': str(result)
+        }
+        history = PandasOperations.load_history()
+        history.append(history_entry)
+        PandasOperations.save_history(history)
         return calculation
-    
-    def execute(self) -> Decimal:
-        if self.result is None:
-            self.result = self.op(self.num1, self.num2)
-        return self.result
 
     @classmethod
-    def history(cls) -> List['Calculations']:
-        return cls.calculation_history
+    def history(cls) -> List[Dict]:
+        return PandasOperations.load_history()
 
     @classmethod
     def clear_history(cls):
-        cls.calculation_history.clear()
+        PandasOperations.clear_history()
+
+    @classmethod
+    def delete_history_record(cls, index: int):
+        PandasOperations.delete_record(index)
